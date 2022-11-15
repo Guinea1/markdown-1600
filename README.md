@@ -1,6 +1,6 @@
 # Bobby D (_1600_)
 
-[Home](README.md) | [About me](About.md)
+[Home](README.md) | [About me](About.md) | ["Mystery"](Mystery.md)
 
 ## Home
 
